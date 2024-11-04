@@ -68,6 +68,6 @@ The main program creates a `Vehicule` object and tests several speeds. If the sp
 
 ## Execution Screenshot
 
-# Below is a screenshot of the code execution :
+### Below is a screenshot of the code execution :
 
 ***![](captures/Ex1-exe.png)***

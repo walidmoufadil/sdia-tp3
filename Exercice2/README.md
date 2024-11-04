@@ -68,6 +68,6 @@ The `Calculateur` class performs mathematical operations, specifically testing t
 The main program creates a `Calculateur` object and tests several values. If a negative value is provided, the exception message is displayed in the console.
 ## Execution Screenshot
 
-# Below is a screenshot of the code execution :
+### Below is a screenshot of the code execution :
 
 ***![](captures/Ex2-exe.png)***
