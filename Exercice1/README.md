@@ -1,11 +1,12 @@
 # TropViteException Class
 
-```java
+```` java
 public class TropViteException extends Exception{
     public TropViteException(int vitesse) {
         super("C'est une exception de type TropViteException. Vitesse en cause : " + vitesse);
     }
 } 
+````
 
 The `TropViteException` class is a custom exception triggered when the speed exceeds a certain limit. It extends the `Exception` class and is used to handle specific cases where an excessive speed is detected.
 
