@@ -66,4 +66,6 @@ The `Vehicule` class represents a vehicle that controls its speed using the `tes
 ### Usage Example
 The main program creates a `Vehicule` object and tests several speeds. If the speed exceeds the limit, the exception message is displayed in the console.
 
+## Execution Screenshot
+Below is a screenshot of the code execution :
 ***![](captures/Ex1-exe.png)***

@@ -65,5 +65,6 @@ The `Evaluateur` class is designed to validate student grades. It uses the `veri
 
 ### Usage Example
 The main program creates an `Evaluateur` object and tests several grades. If an invalid grade is provided, the exception is caught, and the error message is displayed in the console.
-
+## Execution Screenshot
+Below is a screenshot of the code execution:
 ***![](captures/Ex3-exe.png)***
