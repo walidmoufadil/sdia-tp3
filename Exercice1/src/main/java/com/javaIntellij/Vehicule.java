@@ -16,7 +16,7 @@ public class Vehicule {
 
     }
 
-    public void testVitesse(int vitesse) throws TropViteException{
+    public void testVitesse(double vitesse) throws TropViteException{
         if(vitesse > 90){
             throw new TropViteException(vitesse);
         }

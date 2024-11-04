@@ -7,7 +7,7 @@ public class Evaluateur {
     public static void main(String[] args) {
         Evaluateur evaluateur = new Evaluateur();
         try {
-            evaluateur.verifierNote(-5);
+            evaluateur.verifierNote(15);
             evaluateur.verifierNote(25);
 
         } catch (NoteInvalideException e) {
@@ -16,8 +16,8 @@ public class Evaluateur {
         }
     }
 
-    public void verifierNote(int note) throws NoteInvalideException {
-        if(note < 0 || note > 100){
+    public void verifierNote(double note) throws NoteInvalideException {
+        if(note < 0 || note > 20){
             throw new NoteInvalideException(note);
         }
     }
