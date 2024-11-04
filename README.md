@@ -27,3 +27,10 @@ This project includes a series of Java exercises to practice Exceptions concepts
 3. [Exercise 3: Evaluator](Exercice3)
 
 ---
+
+## Execution Instructions
+1. **Clone the repository**: `git clone [GitHub repository URL]`
+2. **Compile Java classes**: Navigate to each exercise directory and compile the Java files.
+3. **Run the main program**: Each exercise includes an `Application` class with a `main` method to test the features.
+
+---
